@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       link_iso:
-        description: 'dán link iso của ae vô đây'
+        description: https://software.download.prss.microsoft.com/dbazure/Win11_23H2_English_x64v2.iso?t=de966916-f0dc-4eb6-a352-938f5ef6e8b5&P1=1719568517&P2=601&P3=2&P4=RlEM1czyXRw7G%2fGxFj5LxYLSzjhMExuk4IK8g1VSmZBKE%2f%2fq3b%2fB6WlW8r6Zk1Afzio5PFZ4ExvBqDyyDsDbzkRHL2k4FXSI%2bxHfzhadoIvNKVBoTHbPNnXi3xnzevZoWQkWSI9bVhaUkBlcY8a71bhRx5sOrD0u%2ffUkxNF9HS02sPAddP4YIAGWCgzxEPoXrKKzSD26MEiBZFnlMcLk43cNkBBZykZ%2fMJLnkEuDgh2kxztVPUYvEjqr%2fbp%2foNIal4PgB%2feeUvVXUMExmeNVzxdefRbZ9YuhIeAj14f9rdax64PlQ8%2bVm1roTASDoweushMCo0fyIyYonuKiOtOt3Q%3d%3d
         required: true
  
 jobs:
